@@ -30,7 +30,7 @@ currently: Learning, Exploring & Working
 
 ---
 
-### 🛠️ Tech I Work With
+### What I work with and currently learning
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -41,7 +41,7 @@ currently: Learning, Exploring & Working
 
 ---
 
-### 🚀 Currently
+### Currently
 
 - Learning how to Color Grade
 - Working on Sim Racing
