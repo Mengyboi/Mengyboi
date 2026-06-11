@@ -64,11 +64,11 @@ currently: Learning, Exploring & Working
 
 > Joined as Admin and have been keeping the server running smoothly ever since.
 
-**🟢 veltrix.club** — _Owner_ · `Jun 6, 2026 – Present`
+**<img src="assets/experience/veltrix.png" width="18"/> veltrix.club** — _Owner_ · `Jun 6, 2026 – Present`
 
 > Stepped up to Owner after starting in Management. Leading the development of the server.
 
-**🟢 veltrix.club** — _Management_ · `Oct 11, 2025 – Jun 6, 2026`
+**<img src="assets/experience/veltrix.png" width="18"/>** — _Management_ · `Oct 11, 2025 – Jun 6, 2026`
 
 > Joined as Management, responsible for overseeing server operations and community.
 
