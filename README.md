@@ -84,7 +84,7 @@ currently: Learning, Exploring & Working
 
 > Supporting one of the best hosting communities out there — great people, learned a ton.
 
-**<img src="assets/experience/the-grid.png" width="18"/> Alonefield (AKA The Grind)** — _Developer & Admin_ · `2021 – Mar 2023`
+**<img src="assets/experience/the-grid.png" width="18"/> Alonefield (AKA The Grid)** — _Developer & Admin_ · `2021 – Mar 2023`
 
 > The server that started it all. In charge of handling Practice, Prison, and other gamemodes. Where the dev journey really began.
 
